@@ -1,0 +1,1 @@
+print('welcome to campaign studio on 2026-08-20')
